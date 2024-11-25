@@ -1,0 +1,8 @@
+{
+	Name: "Age Of Thrones",
+	Description: "this is in beta and i will keep updating it",
+	
+	Tags: [ "Game", "Mod" , "got" ],
+	
+	ChangeNote: "First release",
+}
