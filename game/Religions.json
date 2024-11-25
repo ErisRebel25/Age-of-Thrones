@@ -288,24 +288,76 @@
 			IncreaseManpowerCost: -2.5,
 		},
 		
-		
 		{
-			Name: MyReligion1,
-			Icon: "myreligion.png",
-			ReligionGroupID: 1,
+			Name: Faith of the Seven,
+			Icon: "seven.png",
+			ReligionGroupID: 8,
 			Color: [150, 75, 75],
 			Tribal: false,
 			
 			GeneralCost: -0.025,
 		},
+		
 		{
-			Name: Second New Religion,
-			Icon: "second.png",
-			ReligionGroupID: 3,
+			Name: Old Gods of the Forest,
+			Icon: "oldgods.png",
+			ReligionGroupID: 8,
 			Color: [75, 75, 255],
 			Tribal: false,
 			
 			IncreaseManpowerCost: -2.5,
 		},
+		
+		{
+			Name: Rhllor,
+			Icon: "light.png",
+			ReligionGroupID: 8,
+			Color: [75, 75, 255],
+			Tribal: false,
+			
+			IncreaseManpowerCost: -2.5,
+		},
+		
+		{
+			Name: Drowned God,
+			Icon: "drowned.png",
+			ReligionGroupID: 8,
+			Color: [75, 75, 255],
+			Tribal: false,
+			
+			IncreaseManpowerCost: -2.5,
+		},
+		
+		{
+				Name: The Many-Faced God,
+			Icon: "manyfaced.png",
+			ReligionGroupID: 8,
+			Color: [75, 75, 255],
+			Tribal: false,
+			
+			IncreaseManpowerCost: -2.5,
+		 },
+			
+	  {
+			Name: Great Stallion,
+			Icon: "stallion.png",
+			ReligionGroupID: 8,
+			Color: [75, 75, 255],
+			Tribal: false,
+			
+			IncreaseManpowerCost: -2.5,
+		
+			},
+			
+	  {
+			Name: Valyrian Gods,
+			Icon: "valyria.png",
+			ReligionGroupID: 8,
+			Color: [75, 75, 255],
+			Tribal: false,
+	
+			IncreaseManpowerCost: -2.5,
+			}
+				
 	]
 }
